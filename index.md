@@ -12,7 +12,7 @@ The Application is a single-player, offline game. However, certain features such
 
 We may collect the following categories of data:
 
-*   **Account Information:** When you use "Sign in with Apple" to log into the game, we may receive your Apple user identifier, and optionally your name and email address.
+
 *   **Technical Data:** Device model, operating system version (iOS), unique device identifiers (IDFA/IDFV).
 *   **Usage Data:** Information about how you interact with the Application, as well as data about completed in-app purchases.
 *   **Analytics and Diagnostic Data:** We use **Google Firebase** to collect anonymized statistics, crash reports, and error logs.

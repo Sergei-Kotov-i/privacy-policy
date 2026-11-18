@@ -6,14 +6,14 @@ Sergey Kotov (hereinafter referred to as the "Developer", "we", "us") respects t
 
 ## 1. How the Application Works and What Data We Process
 
-The Application is a single-player, offline game. However, certain features such as in-app purchases, Apple account verification, and analytics require an internet connection.
+The Application is a single-player, offline game. However, certain features such as in-app purchases and analytics require an internet connection.
 
 **Important:** The Application does not receive or store your Apple ID password, nor does it have access to your bank card data. All financial transactions are processed solely by Apple Inc. through the In-App Purchase (StoreKit) system.
 
 We may collect the following categories of data:
 
 
-*   **Technical Data:** Device model, operating system version (iOS), unique device identifiers (IDFA/IDFV).
+*   **Technical Data:** Device model, operating system version (iOS), unique device identifiers (IDFV).
 *   **Usage Data:** Information about how you interact with the Application, as well as data about completed in-app purchases.
 *   **Analytics and Diagnostic Data:** We use **Google Firebase** to collect anonymized statistics, crash reports, and error logs.
 
@@ -32,7 +32,7 @@ The collected information is used solely for:
 ## 3. Sharing Data with Third Parties
 
 We do not sell your data. Data sharing is only possible with:
-*   **Apple Inc.** (for purchases and Apple ID authentication).
+*   **Apple Inc.** (for in-app purchases).
 *   **Google Firebase** (for anonymized analytics).
 *   **By Law:** If required to comply with legal obligations.
 
